@@ -15,14 +15,26 @@
 - 노선 상세 (잔여 좌석 표시)
 - 예약 / 취소 UI
 
-```md
+
+### 처음 화면
 ![처음화면](./screenshot/1.first.png)
+
+### 로그인
 ![로그인화면](./screenshot/2.login.png)
+
+### 대시보드
 ![대시보드](./screenshot/3.dashboard.png)
+
+### 셔틀 조회
 ![셔틀조회화면](./screenshot/4.route.png)
+
+### 예약
 ![셔틀예약화면](./screenshot/5.reserve.png)
+
+### 예약 취소
 ![셔틀예약취소화면](./screenshot/6.cancel.png)
-```
+
+
 
 ---
 
