@@ -5,9 +5,6 @@
 사내 임직원을 위한 통근 셔틀 예약 시스템 프론트엔드 포트폴리오입니다.
 노선 조회 → 운행 시간 선택 → 잔여 좌석 확인 → 예약/취소까지의 전체 흐름을 구현했습니다.
 
-- 목적: 실무에서 자주 발생하는 예약/상태 동기화 문제를 Next.js(App Router)로 해결
-- 특징: 서버 컴포넌트 기반 데이터 패칭 + 클라이언트 액션 분리
-
 ---
 
 ## Screenshots
@@ -19,12 +16,12 @@
 - 예약 / 취소 UI
 
 ```md
-![처음화면](./screenshots/1.first.png)
-![로그인화면](./screenshots/2.login.png)
-![대시보드](./screenshots/3.dashboard.png)
-![셔틀조회화면](./screenshots/4.route.png)
-![셔틀예약화면](./screenshots/5.reserve.png)
-![셔틀예약취소화면](./screenshots/6.cancel.png)
+![처음화면](./screenshot/1.first.png)
+![로그인화면](./screenshot/2.login.png)
+![대시보드](./screenshot/3.dashboard.png)
+![셔틀조회화면](./screenshot/4.route.png)
+![셔틀예약화면](./screenshot/5.reserve.png)
+![셔틀예약취소화면](./screenshot/6.cancel.png)
 ```
 
 ---
